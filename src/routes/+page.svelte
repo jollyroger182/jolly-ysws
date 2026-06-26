@@ -58,7 +58,7 @@
 	<div class={['flex flex-wrap gap-6 items-center', playing && 'flex-col']}>
 		<a
 			target="_blank"
-			href="https://hackclub.enterprise.slack.com/"
+			href="https://hackclub.enterprise.slack.com/archives/C0BDCTA7SH3"
 			class="text-[blue] underline decoration-2 cursor-pointer">slack</a
 		>
 
