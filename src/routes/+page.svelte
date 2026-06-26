@@ -29,7 +29,7 @@
 		<img src={yay} />
 	</div>
 
-	<p>ys: a jolly project (joyous? christmasty? any way you interpret it!) for 3+ hours</p>
+	<p>ys: a jolly project (joyous? christmasty? any way you interpret it!) for 2+ hours</p>
 
 	<p>
 		ws: jolly ranchers + a postcard signed by <a
